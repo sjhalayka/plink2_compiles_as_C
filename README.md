@@ -1,0 +1,1 @@
+# plink2_compiles_as_C
